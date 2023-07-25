@@ -1,6 +1,3 @@
-
-
-
 const cart = document.getElementById('cart');
 const open_cart = document.getElementById('open_cart');
 const add_to_cart = document.getElementById('add_to_cart');
