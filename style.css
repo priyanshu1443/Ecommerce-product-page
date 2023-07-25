@@ -621,6 +621,11 @@ body>hr {
     width: 30%;
   }
 
+  #navigation div:nth-child(3) #cart_item {
+    top: -8px;
+    left: -30px;
+  }
+
   #main {
     display: block;
     margin: 0;
@@ -717,6 +722,10 @@ body>hr {
 
   #main section:nth-child(2) #add_to_cart_and_choose_no_of_items button {
     width: 100%;
+  }
+
+  .attribution {
+    display: none;
   }
 }
 
