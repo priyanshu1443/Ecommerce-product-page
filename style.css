@@ -735,11 +735,22 @@ body>hr {
 
   #navigation div:nth-child(3) div:nth-child(1)>div:nth-child(2) {
     width: 100vw;
-    /* left: 0px;
-    right: 0px; */
     top: 15rem;
-    height: 26rem;
+    height: 30rem;
     width: 98vw;
+  }
+
+  #navigation div:nth-child(3) div:nth-child(1) h3 {
+    height: 7rem;
+    line-height: 7rem;
+  }
+
+  #navigation div:nth-child(3) div:nth-child(1) #product_cart div {
+    margin-top: 2rem;
+  }
+
+  #navigation div:nth-child(3) div:nth-child(1) #product_cart {
+    height: 21rem;
   }
 
   #main section:nth-child(1) #previous {
