@@ -185,6 +185,20 @@ body {
 
 /* --------- cart section end ---------  */
 
+#navigation div:nth-child(3) #cart_item {
+  height: 13px;
+  width: 18px;
+  border-radius: 38%;
+  background-color: var(--Orange);
+  justify-content: center;
+  color: white;
+  position: relative;
+  top: -28px;
+  left: 10px;
+  padding-block: 2px;
+  display: none;
+}
+
 
 
 #navigation div #profile {
